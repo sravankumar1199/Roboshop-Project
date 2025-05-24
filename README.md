@@ -21,3 +21,33 @@ Below is the communication between components and dependency. This dependency co
 * We can use NoSQL databases like MongoDB for storing the product information.
 * We can use Cache servers like Redis to access the data with lightening speed.
 * We can use MQ Servers like RabbitMQ, ActiveMQ, Kafka, etc for asynchronous communication.
+
+
+#### Project: RoboShop E-commerce Microservices Documentation
+Role: DevOps Engineer / Documentation Specialist
+Technologies: Node.js, MongoDB, MySQL, Redis, RabbitMQ, Nginx, Systemd, Linux, Markdown
+
+Description:
+Contributed to the RoboShop project, an e-commerce platform architected using a microservices approach. The project encompasses various services, each responsible for distinct functionalities:
+
+Frontend: Serves web content using Nginx.
+
+MongoDB: Stores product information.
+
+Catalogue: Manages the list of items displayed in the application.
+
+Redis: Provides in-memory data storage for caching.
+
+User: Handles user logins and registrations.
+
+Cart: Manages the shopping cart functionality.
+
+MySQL: Stores user data and orders.
+
+Shipping: Calculates shipping distances and prices.
+
+RabbitMQ: Facilitates asynchronous communication between services.
+
+Payment: Processes payments within the application.
+
+Dispatch: Handles product dispatch post-purchase.
